@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FuzzPVizual-all-v0.00001">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lab-fuzzy/FuzzP-master/FuzzP-master/fatJar/FuzzPVizual-all-v0.00001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
